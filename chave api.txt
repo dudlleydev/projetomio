@@ -1,1 +1,1 @@
-genai.configure(api_key="AIzaSyBppaJKlONwSvtqBHwEYree3Zci2OlitjU")
+
