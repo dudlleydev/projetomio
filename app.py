@@ -13,7 +13,7 @@ from diffusers import StableDiffusionPipeline
 st.set_page_config(page_title="Assistente MIO", layout="wide")
 
 
-genai.configure(api_key="AIzaSyBppaJKlONwSvtqBHwEYree3Zci2OlitjU")
+genai.configure(api_key="sua chave api aqui")
 
 
 @st.cache_resource
